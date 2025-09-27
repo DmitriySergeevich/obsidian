@@ -1,0 +1,5 @@
+[[Present Simple]]
+[[Present Perfect Simple]]
+[[Present Continuous]]
+[[Past Simple]]
+[[Past Continious]]
