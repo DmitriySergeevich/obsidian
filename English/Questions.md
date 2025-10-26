@@ -11,7 +11,7 @@
 	Вопрос с be в настоящем продолженом времени
 
 	Are you teacher? - настоящее время
-	Why where you late last monday? - прошедшее время
+	Why were you late last monday? - прошедшее время
 		
 
 ## Вопросы с остальными глаголами
