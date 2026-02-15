@@ -1,7 +1,7 @@
 
 # Использование с прилагательными
 ## at
-Используем предлог at с прилагательнами good/bad/amazing/brilliant/terrible. и проч. когда говорим о способностях или навыках в чем либо.
+Используем предлог at с прилагательными good/bad/amazing/brilliant/terrible. и проч. когда говорим о способностях или навыках в чем либо.
 	He's really ***good at*** English.
 	She's ***amazing at*** the piano.
 

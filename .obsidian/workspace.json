@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c50df0e2c2d71657",
+        "id": "072bd8376bcd13ec",
         "type": "tabs",
         "children": [
           {
-            "id": "71b55816ebbee8fd",
+            "id": "7e139373a8aebecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tsushima note.md",
+                "file": "English/gramma/Passive voice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tsushima note"
+              "title": "Passive voice"
             }
           }
         ]
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -71,14 +71,24 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "35d2a62c2e627ec1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "825c1451f8c16560",
@@ -142,17 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tsushima note.md",
+                "file": "English/gramma/Future reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Tsushima note"
+              "title": "Outline of Future reference"
             }
           },
           {
-            "id": "f3ce4e3f6e3ea1de",
+            "id": "484ec30631fe2c67",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,11 +176,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,10 +191,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71b55816ebbee8fd",
+  "active": "7e139373a8aebecd",
   "lastOpenFiles": [
-    "Main.md",
-    "Tsushima note.md",
+    "English/phrase/Apologise and give reasons.md",
+    "English/phrase/Conversation.md",
+    "English/phrase/Traveling.md",
+    "English/gramma/Subject-object question.md",
+    "English/gramma/Pronouns.md",
+    "English/gramma/Indefinite pronouns.md",
+    "English/gramma/Have to.md",
+    "English/gramma/First conditional.md",
+    "English/gramma/Be + abjective + to.md",
+    "English/gramma/Comparatives and superlatives.md",
+    "English/phrase/Common.md",
+    "English/phrase/Offers.md",
+    "English/phrase/Help.md",
+    "English/gramma/tense/Past Perfect.md",
+    "English/gramma/tense/Present Perfect Simple.md",
+    "English/gramma/Modifiers.md",
+    "English/gramma/Verb patterns.md",
+    "English/gramma/Adjectives from nouns.md",
+    "English/phrase/Check information.md",
+    "English/Questions.md",
+    "English/gramma/Adverbial and prepositional phrases.md",
+    "English/phrase/Ask for and give permission.md",
+    "Book/Фундаментальный подход к программной архитектуре. Марк Ричардс и Нил Форд.md",
+    "Untitled Kanban.md",
+    "Untitled.base",
+    "English/gramma/Preposition.md",
+    "English/gramma/tense/Future reference.md",
+    "cache/Pasted image 20251009234906.png",
+    "cache/Pasted image 20250911230340.png",
+    "cache/Pasted image 20250911225114.png",
+    "cache/Pasted image 20260115231651.png",
+    "daily",
+    "Book",
+    "daily",
     "cache"
   ]
 }

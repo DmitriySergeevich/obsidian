@@ -2,4 +2,4 @@
 [[Present Perfect Simple]]
 [[Present Continuous]]
 [[Past Simple]]
-[[Past Continious]]
+[[Past Continuous]]

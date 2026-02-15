@@ -1,0 +1,7 @@
+.Ds_store
+.obsidian
+/.obsidian/*
+/.Ds_store
+
+/.obsidian/app.json
+/.obsidian/workspace.json
